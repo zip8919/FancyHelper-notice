@@ -4,7 +4,7 @@
 
 ### 获取公告信息
 
-**端点：** `/notice.json`
+**端点：** `/v1/notice.json`
 
 **示例请求：**
 ```javascript
