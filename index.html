@@ -63,7 +63,7 @@
                     noticeContent.textContent = '当前无公告';
                 }
 
-                apiUrl.textContent = window.location.href + 'notice.json';
+                apiUrl.textContent = window.location.href + 'v1/notice.json';
             } catch (error) {
                 console.error('加载公告失败:', error);
                 document.getElementById('noticeContent').textContent = '加载公告失败';
