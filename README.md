@@ -8,7 +8,7 @@
 
 **示例请求：**
 ```javascript
-fetch('https://你的用户名.github.io/FancyHelper-notice/notice.json')
+fetch('https://zip8919.github.io/FancyHelper-notice/notice.json')
   .then(response => response.json())
   .then(data => {
     if (data.notice) {
