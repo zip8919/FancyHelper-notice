@@ -1,4 +1,4 @@
 {
     "notice":true,
-    "text":"免费开源插件，目前仅在MineBBS和GitHub提供下载\n如果你是购买所得，请立即退款并举报\n开源地址：https://github.com/baicaizhale/FancyHelper"
+    "text":"通知：\n如果您正在使用v3.5.0版FancyHelper和Spigot核心，下次自动更新可能会遇到问题。\n可以在Github下载最新版本后手动替换文件来解决（Paper及Paper下游服主可无视）\n免费开源插件，目前仅在MineBBS和GitHub提供下载\n如果你是购买所得，请立即退款并举报\n开源地址：https://github.com/baicaizhale/FancyHelper"
 }
