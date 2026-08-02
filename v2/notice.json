@@ -1,5 +1,5 @@
 {
-    "notice":false,
+    "notice":true,
     "level":1,
-    "text":"因为无法确定的问题较多\n所以暂时没有推送v4到正式版\n如果您愿意帮我们测试，可以从此链接下载预览版更新\nhttps://fancy.baicaizhale.top/download/snapshots%2FFancyHelper-4.0.0.jar\n反馈问题QQ 2651557041"
+    "text":"V4更新这次真的要来咯，近期会推送\n拒绝请自行修改config.yml\n有任何疑问QQ2651557041"
 }
